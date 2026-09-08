@@ -5,7 +5,7 @@ No account. No cloud. Your files stay yours.
 
 **[Download 1.0](https://github.com/ohidurORA/Orayva/releases/download/1.0/orayva-immersion.apk)** · [Release notes](https://github.com/ohidurORA/Orayva/releases/tag/1.0)
 
-![Orayva — Convert Anything](Orayva_app_feature_graphic_202609082012.jpeg)
+![Orayva — Convert Anything](ArtWork5.jpeg)
 
 ## What it does
 
@@ -22,8 +22,8 @@ Finished files land in **Downloads / Orayva**, and in the Vault.
 
 | | |
 |:--:|:--:|
-| ![Home](Orayva_file_conversion_app_poster_202609082005.jpeg) | ![Formats](Orayva_file_converter_marketing_…_202609082006.jpeg) |
-| ![Studio](Orayva_promotional_graphic_highl…_202609082006.jpeg) | ![Picker](Poster_promoting_Orayva_application_202609082005.jpeg) |
+| ![Home](ArtWork1.jpeg) | ![Formats](ArtWork3.jpeg) |
+| ![Studio](ArtWork4.jpeg) | ![Picker](ArtWork2.jpeg) |
 
 ## How to use it
 
@@ -46,6 +46,10 @@ You can convert more than one file at a time.
 ---
 
 Built by **Ohidur**. First public release. Thank you for trying it.
+
+If you like Orayva, you are welcome to follow along.
+
+[Facebook](https://www.facebook.com/wolfeap) · [Instagram](https://www.instagram.com/orabid9999/)
 
 <p align="center">
   <img src="orayva.png" alt="Orayva" width="96">
