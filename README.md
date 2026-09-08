@@ -1,43 +1,52 @@
 # Orayva
 
-Orayva is a simple Android app for changing files from one format to another.
+Convert audio, video, and images on your phone.
+No account. No cloud. Your files stay yours.
 
-Turn a video into another video format. Turn a photo into a different image type. Turn a song into another audio format. Or pull the sound out of a video.
+**[Download 1.0](https://github.com/ohidurORA/Orayva/releases/download/1.0/orayva-immersion.apk)** · [Release notes](https://github.com/ohidurORA/Orayva/releases/tag/1.0)
 
-That is it. No account. No cloud. Your files stay on your phone.
+![Orayva — Convert Anything](Orayva_app_feature_graphic_202609082012.jpeg)
 
-## What you can do
+## What it does
 
-- **Audio** — convert songs and recordings (MP3, AAC, WAV, and more)
-- **Video** — convert videos (MP4, MKV, WebM, and more)
-- **Images** — convert photos (JPG, PNG, WebP, and more)
+Pick a kind of file. Choose a format. Orayva converts it on the device.
+
+- **Audio** — MP3, AAC, WAV, FLAC, and more
+- **Video** — MP4, MKV, WebM, and more
+- **Images** — JPG, PNG, WebP, and more
 - **Video to Audio** — keep the sound, drop the picture
 
-Pick files from your phone, choose the format you want, and Orayva does the rest. Finished files land in **Downloads / Orayva**.
+Finished files land in **Downloads / Orayva**, and in the Vault.
+
+## The app
+
+| | |
+|:--:|:--:|
+| ![Home](Orayva_file_conversion_app_poster_202609082005.jpeg) | ![Formats](Orayva_file_converter_marketing_…_202609082006.jpeg) |
+| ![Studio](Orayva_promotional_graphic_highl…_202609082006.jpeg) | ![Picker](Poster_promoting_Orayva_application_202609082005.jpeg) |
 
 ## How to use it
 
 1. Open Orayva.
 2. Choose Audio, Video, Images, or Video to Audio.
-3. Pick the files you want to convert.
+3. Pick the files.
 4. Choose the output format.
-5. Wait for the job to finish.
-6. Find your new files in the Vault, or in Downloads / Orayva.
+5. Wait. Watch the Queue if you like.
+6. Find the new files in the Vault, or in Downloads / Orayva.
 
-You can convert more than one file at a time. Progress shows up in the Queue.
+You can convert more than one file at a time.
 
 ## A few notes
 
 - Works on Android.
-- Needs permission to read and save media on your phone.
-- Conversion happens on the device. Nothing is uploaded.
-- If something fails, Orayva will tell you why (storage, permissions, or an unsupported file).
+- Needs permission to read and save media.
+- Conversion happens on the phone. Nothing is uploaded.
+- If something fails, Orayva will tell you why.
 
-## Say hello
+---
 
-If you like Orayva, you are welcome to follow along. No pressure at all.
+Built by **Ohidur**. First public release. Thank you for trying it.
 
-- Facebook: [https://www.facebook.com/wolfeap](https://www.facebook.com/wolfeap)
-- Instagram: [https://www.instagram.com/orabid9999/](https://www.instagram.com/orabid9999/)
-
-Thank you for using Orayva.
+<p align="center">
+  <img src="orayva.png" alt="Orayva" width="96">
+</p>
