@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.ConverAnything" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orayva_blue</item>
+        <item name="colorPrimaryVariant">@color/orayva_ink</item>
+        <item name="colorOnPrimary">@color/orayva_snow</item>
+        <item name="colorSecondary">@color/orayva_blue</item>
+        <item name="colorSecondaryVariant">@color/orayva_blue</item>
+        <item name="colorOnSecondary">@color/orayva_snow</item>
+        <item name="android:statusBarColor">@color/orayva_ink</item>
+        <item name="android:navigationBarColor">@color/orayva_ink</item>
+        <item name="android:windowBackground">@color/orayva_ink</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

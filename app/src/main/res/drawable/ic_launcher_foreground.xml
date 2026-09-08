@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Convert All-in-One logo: gradient conversion arrows + core dot.
+     Glyph only (no tile): the adaptive-icon mask + background layer frame it.
+     Glow filter from the source SVG has no VectorDrawable equivalent — skipped. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <path
+        android:pathData="M42 38C52 28 68 28 78 38L86 46M86 34V46H74"
+        android:strokeWidth="6.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="10"
+                android:startY="10"
+                android:endX="110"
+                android:endY="110"
+                android:type="linear">
+                <item
+                    android:color="#FF818CF8"
+                    android:offset="0.0" />
+                <item
+                    android:color="#FF6366F1"
+                    android:offset="0.5" />
+                <item
+                    android:color="#FF06B6D4"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path
+        android:pathData="M78 82C68 92 52 92 42 82L34 74M34 86V74H46"
+        android:strokeWidth="6.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="10"
+                android:startY="10"
+                android:endX="110"
+                android:endY="110"
+                android:type="linear">
+                <item
+                    android:color="#FF818CF8"
+                    android:offset="0.0" />
+                <item
+                    android:color="#FF6366F1"
+                    android:offset="0.5" />
+                <item
+                    android:color="#FF06B6D4"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path
+        android:fillAlpha="0.9"
+        android:pathData="M50,60a10,10 0 1,1 20,0a10,10 0 1,1 -20,0">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="10"
+                android:startY="10"
+                android:endX="110"
+                android:endY="110"
+                android:type="linear">
+                <item
+                    android:color="#FF818CF8"
+                    android:offset="0.0" />
+                <item
+                    android:color="#FF6366F1"
+                    android:offset="0.5" />
+                <item
+                    android:color="#FF06B6D4"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>
